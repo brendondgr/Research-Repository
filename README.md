@@ -6,7 +6,7 @@ This is a repository that will be a inclusive list of everything I have done thr
 
 ## Projects
 ### Transformer / Vision Transformers
-#### Added: 2025/08/03 - Updated: 2025/08/03
+#### Added: 2025/08/03
 
 This repository contains implementations of Vision Transformers (ViT) and standard Transformer architectures. The goal is to provide a flexible and modular codebase for experimenting with transformer-based models in computer vision tasks.
 
