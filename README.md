@@ -1,4 +1,4 @@
-# Research Repository - Zavala Lab
+# Research Repository
 ## Description
 The primary purpose of this repository is to showcase all research that has been on-going on my part, with time-stamp inclusions. This is a collection of Research Articles, GitHub Repositories, and other efforts as apart of my personal research. Feel free to take a look around to understand my current/on-going efforts.
 
