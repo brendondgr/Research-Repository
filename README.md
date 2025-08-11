@@ -5,10 +5,25 @@ The primary purpose of this repository is to showcase all research that has been
 This is a repository that will be a inclusive list of everything I have done throughout the course of my PhD on the topic of Medical AI.
 
 ## Projects
-### Transformer / Vision Transformers
-#### Added: 2025/08/03 - Updated: 2025/08/03
+### Surgical Visual Understanding
+#### Added: August 05, 2025
 
-This repository contains implementations of Vision Transformers (ViT) and standard Transformer architectures. The goal is to provide a flexible and modular codebase for experimenting with transformer-based models in computer vision tasks.
+Contains code and implementation for the SurgVU-2025 Challenge, focusing on surgical tool detection and localization in minimally invasive surgical videos. The challenge involves creating accurate bounding box predictions for various surgical instruments across diverse surgical procedures.
+
+Key features:
+- Real-time surgical tool detection and tracking
+- Multi-class bounding box prediction
+- Support for various surgical instrument categories
+- Evaluation metrics aligned with challenge requirements
+- Pre-processing pipeline for surgical video frames
+
+Repository: [SurgVU-2025](https://github.com/brendondgr/SurgVU-2025)
+
+
+### Transformer / Vision Transformers
+#### Added: August 03, 2025
+
+Contains implementations of Vision Transformers (ViT) and standard Transformer architectures. The goal is to provide a flexible and modular codebase for experimenting with transformer-based models in computer vision tasks.
 
 Key features:
 - Configurable model parameters and architectures
@@ -20,9 +35,9 @@ Repository: [Transformers-ViT](https://github.com/brendondgr/Tranformers-ViT)
 
 ## Updates
 <details>
-<summary>Example Spoiler</summary>
+<summary>2025 Updates</summary>
 
-### Date Here
-- XXXX
+### August 11th
+- Updated with Information regarding Transformer Project as well as SurgVU 2025.
 
 </details>
