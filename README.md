@@ -4,7 +4,7 @@ The primary purpose of this repository is to showcase all research that has been
 
 This is a repository that will be a inclusive list of everything I have done throughout the course of my PhD on the topic of Medical AI.
 
-## Projects
+# Projects
 ### Surgical Visual Understanding
 #### Added: August 05, 2025
 
@@ -20,8 +20,8 @@ Key features:
 Repository: [SurgVU-2025](https://github.com/brendondgr/SurgVU-2025)
 
 
-### Transformer / Vision Transformers
-#### Added: August 03, 2025
+## Transformer / Vision Transformers
+### Added: August 03, 2025
 
 Contains implementations of Vision Transformers (ViT) and standard Transformer architectures. The goal is to provide a flexible and modular codebase for experimenting with transformer-based models in computer vision tasks.
 
@@ -33,11 +33,11 @@ Key features:
 
 Repository: [Transformers-ViT](https://github.com/brendondgr/Tranformers-ViT)
 
-## Updates
+# Updates
 <details>
 <summary>2025 Updates</summary>
 
-### August 11th
+## August 11th
 - Updated with Information regarding Transformer Project as well as SurgVU 2025.
 
 </details>
